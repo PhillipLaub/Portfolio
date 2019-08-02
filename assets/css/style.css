@@ -224,6 +224,10 @@ input[type=submit] {
   #contact-form ul {
     padding-left:0;
   }
+
+  .mainsection {
+    width:980px;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -234,6 +238,7 @@ input[type=submit] {
 
 .main-section {
   padding-top:0;
+  width: 768px;
 }
 }
 
@@ -263,5 +268,9 @@ input[type=submit] {
 
   .work:nth-child(even) {
     margin-right:0;
+  }
+
+  .main-section {
+    width:640px;
   }
   }
