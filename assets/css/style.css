@@ -226,7 +226,7 @@ input[type=submit] {
   }
 
   .mainsection {
-    width:980px;
+    width:100%;
   }
 }
 
@@ -238,7 +238,7 @@ input[type=submit] {
 
 .main-section {
   padding-top:0;
-  width: 768px;
+  width: 100%;
 }
 }
 
@@ -271,6 +271,6 @@ input[type=submit] {
   }
 
   .main-section {
-    width:640px;
+    width:100%;
   }
   }
