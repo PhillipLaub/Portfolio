@@ -5,7 +5,7 @@ body {
   color: #777777;
   background-image: url('../images/backgroundhex.png');
 }
-
+  
 * {
   box-sizing: border-box;
 }
@@ -219,7 +219,6 @@ input[type=submit] {
 
 
 @media screen and (max-width: 980px) {
-  
 
 }
 
@@ -233,4 +232,25 @@ input[type=submit] {
     #main-container {
       padding-top:0px;
     }
+  #logo {width:100%;}
+  nav {
+    text-align: center;
+    margin-top:0;
+    float: none;
+  }
+   nav a {
+    padding-top:20px;
+    padding-bottom:20px;
+  }
+  .auth-image {
+    width:100%;
+  }
+
+  .work {
+    width: fit-content;
+  }
+
+  .work:nth-child(even) {
+    margin-right:0;
+  }
   }
