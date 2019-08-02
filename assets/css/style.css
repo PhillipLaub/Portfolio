@@ -219,7 +219,21 @@ input[type=submit] {
 
 
 @media screen and (max-width: 980px) {
+  nav {
+    margin-right:30px;
+  }
+  #logo {
+    margin-left:30px;
+  }
 
+  .main-section {
+    width:650px;
+    margin-left:40px;
+  }
+
+  #contact-form ul {
+    padding-left:0;
+  }
 }
 
 @media screen and (max-width: 768px) {
