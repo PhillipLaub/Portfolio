@@ -97,6 +97,11 @@ nav a:first-child {
   border-left: 0 none;
 }
 
+a:hover {
+  color:#4aaaa5;
+}
+
+
 /* footer */
 
 footer {
@@ -216,6 +221,10 @@ input[type=submit] {
   cursor: pointer;
   background: #4aaaa5;
   border: 0 none;
+  
+}
+input:hover {
+  opacity:0.70;
 }
 
 
@@ -274,4 +283,5 @@ input[type=submit] {
   .main-section {
     width:100%;
   }
+
   }
