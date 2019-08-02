@@ -220,9 +220,7 @@ input[type=submit] {
 
 @media screen and (max-width: 980px) {
 
-  .main-section {
-    width:650px;}
-
+  
   #contact-form ul {
     padding-left:0;
   }
