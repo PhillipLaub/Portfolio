@@ -227,6 +227,10 @@ input:hover {
   opacity:0.70;
 }
 
+.imghov:hover {
+  opacity:1.0;
+}
+
 .rotate {
   animation: rotation 2s ease-in-out;
 }
