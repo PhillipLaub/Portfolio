@@ -4,6 +4,7 @@ body {
   line-height: 34px;
   color: #777777;
   background-image: url('../images/backgroundhex.png');
+  margin:0;
 }
   
 * {
