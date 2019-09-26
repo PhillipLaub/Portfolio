@@ -352,6 +352,7 @@ input:hover {
     padding-top:20px;
     padding-bottom:20px;
     font-size:19px;
+    line-height:25px;
   }
   .auth-image {
     width:50%;
