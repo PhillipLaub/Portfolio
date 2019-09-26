@@ -174,7 +174,7 @@ h3, h2 {
 .work {
   position: relative;
   float: left;
-  width: 274px;
+  width: 400px;
   margin: 20px 0 25px;
   overflow: auto;
 }
@@ -313,6 +313,10 @@ input:hover {
 .main-section {
   padding-top:0;
   width: 100%;
+}
+
+.work {
+  width:300px;
 }
 }
 
