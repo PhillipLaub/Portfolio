@@ -15,9 +15,11 @@ body {
   width:20px;
   height:20px;
 }
-  
+
 * {
   box-sizing: border-box;
+  color:white;
+  text-decoration: none;
 }
 
 /* general */
@@ -149,6 +151,10 @@ h3, h2 {
   border-bottom: 2px solid #eeeeee;
 }
 
+.center {
+  text-align:center;
+}
+
 /* main */
 
 #main-container {
@@ -215,6 +221,11 @@ h3, h2 {
 
 /* contact page */
 
+.left {
+  float:left;
+  width:33%;
+}
+
 #contact-form ul {
   margin-bottom: 20px;
   list-style-type: none;
@@ -275,6 +286,8 @@ input:hover {
 .rotate {
   animation: rotation 2s ease-in-out;
 }
+
+
 
 @keyframes rotation {
   from {
@@ -356,4 +369,18 @@ input:hover {
     width:100%;
   }
 
+  .left {
+    float:none;
+    display:inline;
+    
+  }
+
+  * {
+    text-align:center;
+  }
+
+  .center {
+    padding-bottom:5px;
+  }
+  
   }
