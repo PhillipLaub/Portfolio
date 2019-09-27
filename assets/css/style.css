@@ -16,10 +16,17 @@ body {
   height:20px;
 }
 
+.repo-link {
+  height:35px !important;
+  width:35px !important;
+  float:right;
+}
+
 * {
   box-sizing: border-box;
   color:white;
   text-decoration: none;
+  font-style: oblique;
 }
 
 /* general */
@@ -204,7 +211,7 @@ h3, h2 {
   font-weight: 300;
   line-height: 30px;
   color: #ffffff;
-  text-align: center;
+  /* text-align: center; */
   /* background: #4aaaa5; */
   background-image: url("../images/yellow.jpg");
   background-size: cover;
@@ -376,9 +383,13 @@ input:hover {
     
   }
 
-  * {
+  h1 {
     text-align:center;
   }
+
+  /* * {
+    text-align:center;
+  } */
 
   .center {
     padding-bottom:5px;
