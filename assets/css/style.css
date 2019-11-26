@@ -7,7 +7,7 @@ body {
   font-size: 20px;
   /* line-height: 34px; */
   color:#f7f9fb;
-  background-image: url('https://wallpaperplay.com/walls/full/e/3/e/74309.jpg');
+  background-image: url('https://media1.giphy.com/media/6oeRBKg7mwEZnSnYkn/giphy.gif');
   background-size: cover;
   /* background-color: #0C0032; */
   margin:0;
@@ -28,11 +28,12 @@ p {
   float:right;
 }
 
+
 * {
   box-sizing: border-box;
   color:white;
   text-decoration: none;
-  font-style: oblique;
+  /* font-style: oblique; */
 }
 
 /* general */
@@ -118,8 +119,8 @@ h3 {
   text-decoration: none;
   /* background-image: url("../images/yellow.jpg");
   background-size: cover; */
-  /* background-color: #135EAA; */
-  background: linear-gradient(#135EAA,#C3DFF0);
+  /* background-color: #135EAA;
+  background: linear-gradient(#135EAA,#C3DFF0); */
   /* text-shadow:
    -4px -4px 0 #000,  
     4px -4px 0 #000,
@@ -427,7 +428,7 @@ p {
     width:100%;
     font-size:45px;
     background-image: url("https://media0.giphy.com/media/pOhqA8rf4IwuDoM0QI/giphy.gif");
-  background-size: cover;
+    background-size: cover;
   }
   nav {
     text-align: center;
