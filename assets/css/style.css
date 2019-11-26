@@ -8,7 +8,7 @@ body {
   /* line-height: 34px; */
   color:#f7f9fb;
   /* background-image: url('https://media.giphy.com/media/xUA7bfDro97ipc4fu0/giphy.gif'); */
-  background-image: url('https://media.giphy.com/media/ZPn7MRr2evCak/giphy.gif');
+  background-image: url('https://media.giphy.com/media/3Nxj6zlWFfIEMMoAIh/giphy.gif');
   background-size: cover;
   /* background-color: #0C0032; */
   margin:0;
@@ -80,7 +80,7 @@ h1 {
   /* padding-bottom: 20px; */
   font-size: 40px;
   line-height: 49px;
-  border-bottom: 3px solid #240090;
+  border-bottom: 3px solid #C3DFF0;
   margin:0px;
 }
 
@@ -102,7 +102,7 @@ h3 {
   /* background-image: url("../images/yb_grade.svg");
   background-size: cover; */
   background-color: #190061;
-  border-bottom: 2px solid #240090;
+  border-bottom: 2px solid #C3DFF0;
   /* opacity:.9; */
 }
 
@@ -248,6 +248,7 @@ h3, h2 {
   border:2px solid #C3DFF0;
 }
 
+
 .work h3 {
   position: absolute;
   bottom: 20px;
@@ -299,39 +300,7 @@ textarea {
 
 }
 
-input[type=text],
-input[type=email],
-textarea {
-  height: 35px;
-  padding: 0 10px;
-  font-size: 14px;
-  /* background:#555555; */
-  background-color: #282828;
-  color:white;
-  border: 1px solid #240090;
-  border-radius: 15px 50px;
-}
 
-#text {
-  color:white;
-}
-
-textarea {
-  height: 200px;
-}
-
-input[type=submit] {
-  padding: 10px 30px;
-  font-size: 18px;
-  color: #ffffff;
-  cursor: pointer;
-  /* background: black; */
-  background-color: #282828;
-  border: 0 none;
-  font-family: 'Big Shoulders Display', cursive;
-
-  
-}
 
 
 input:hover {
