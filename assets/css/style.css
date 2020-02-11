@@ -23,7 +23,7 @@ p {
 }
 
 #icon {
-  height: 3vh;
+  height: 1em;
 }
 
 .repo-link {
@@ -430,9 +430,7 @@ input:hover {
 /* end particles*/
 
 @media screen and (max-width: 640px) {
-  #masthead {
-    position: static;
-  }
+ 
   #main-container {
     padding-top: 0px;
   }
